@@ -207,16 +207,26 @@ const dogFacts = {
     ],
     // Default facts for general dogs
     default: [
-        'Dogs are known as man’s best friend.',
-        'They have been domesticated for thousands of years.',
-        'Dogs have an incredible sense of smell.',
-        'Dogs can understand up to 250 words and gestures.',
-        'They are very social animals and thrive on interaction with humans and other dogs.',
-        'Dogs have sweat glands only in their paws.',
-        'The average dog is as intelligent as a two-year-old child.',
-        'Dogs’ noses are unique, similar to human fingerprints.',
-        'A dog’s sense of smell is 10,000 to 100,000 times more acute than humans.',
-        'Dogs have been shown to reduce stress, anxiety, and depression in their owners.'
+        'Dogs have been companions to humans for over 15,000 years.',
+        'There are over 340 different dog breeds recognized worldwide.',
+        'A dog’s hearing is four times better than a human’s.',
+        'Dogs can be trained to detect diseases such as cancer and diabetes.',
+        'The Basenji is the only dog breed that doesn’t bark, but it does make other sounds.',
+        'Dogs can see in the dark much better than humans due to a special membrane in their eyes called the tapetum lucidum.',
+        'The Greyhound is the fastest dog breed, capable of running up to 45 miles per hour.',
+        'Puppies are born deaf and blind, and they only begin to hear and see after about two weeks.',
+        'Dogs curl up when they sleep to protect their vital organs and keep themselves warm.',
+        'The Newfoundland breed has webbed feet and is an excellent swimmer.',
+        'Dogs’ noses can sense heat/thermal radiation, which explains how they can detect warm bodies in the dark.',
+        'Dogs have three eyelids, including one to keep their eyes moist and protected.',
+        'The Labrador Retriever has been the most popular dog breed in the United States for over 30 years.',
+        'Dogs sweat through their paw pads and pant to cool down.',
+        'The wetness of a dog’s nose is essential for determining what direction a smell is coming from.',
+        'Dogs can experience emotions similar to humans, such as happiness, sadness, and anxiety.',
+        'A dog’s brain releases oxytocin, the "love hormone," when it interacts with humans.',
+        'Dogs’ whiskers are deeply embedded in their skin and are connected to the nervous system, making them highly sensitive.',
+        'Dogs can learn and understand gestures and commands without verbal cues.',
+        'The world’s oldest known breed is the Saluki, which dates back to ancient Egypt over 5,000 years ago.'
     ]
 };
 
