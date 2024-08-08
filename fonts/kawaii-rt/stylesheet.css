@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Kawaii RT Mona Layer Line';
+    src: url('KawaiiRT-MonaLayerLine.eot');
+    src: local('Kawaii RT Mona Layer Line'), local('KawaiiRT-MonaLayerLine'),
+        url('KawaiiRT-MonaLayerLine.eot?#iefix') format('embedded-opentype'),
+        url('KawaiiRT-MonaLayerLine.woff2') format('woff2'),
+        url('KawaiiRT-MonaLayerLine.woff') format('woff'),
+        url('KawaiiRT-MonaLayerLine.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kawaii RT Dingbats';
+    src: url('KawaiiRT-Dingbats.eot');
+    src: local('Kawaii RT Dingbats'), local('KawaiiRT-Dingbats'),
+        url('KawaiiRT-Dingbats.eot?#iefix') format('embedded-opentype'),
+        url('KawaiiRT-Dingbats.woff2') format('woff2'),
+        url('KawaiiRT-Dingbats.woff') format('woff'),
+        url('KawaiiRT-Dingbats.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kawaii RT Words';
+    src: url('KawaiiRT-Words.eot');
+    src: local('Kawaii RT Words'), local('KawaiiRT-Words'),
+        url('KawaiiRT-Words.eot?#iefix') format('embedded-opentype'),
+        url('KawaiiRT-Words.woff2') format('woff2'),
+        url('KawaiiRT-Words.woff') format('woff'),
+        url('KawaiiRT-Words.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kawaii RT Mona Shadow';
+    src: url('KawaiiRT-MonaShadow.eot');
+    src: local('Kawaii RT Mona Shadow'), local('KawaiiRT-MonaShadow'),
+        url('KawaiiRT-MonaShadow.eot?#iefix') format('embedded-opentype'),
+        url('KawaiiRT-MonaShadow.woff2') format('woff2'),
+        url('KawaiiRT-MonaShadow.woff') format('woff'),
+        url('KawaiiRT-MonaShadow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kawaii RT Mona Shine';
+    src: url('KawaiiRT-MonaShine.eot');
+    src: local('Kawaii RT Mona Shine'), local('KawaiiRT-MonaShine'),
+        url('KawaiiRT-MonaShine.eot?#iefix') format('embedded-opentype'),
+        url('KawaiiRT-MonaShine.woff2') format('woff2'),
+        url('KawaiiRT-MonaShine.woff') format('woff'),
+        url('KawaiiRT-MonaShine.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kawaii RT Mona';
+    src: url('KawaiiRT-Mona.eot');
+    src: local('Kawaii RT Mona'), local('KawaiiRT-Mona'),
+        url('KawaiiRT-Mona.eot?#iefix') format('embedded-opentype'),
+        url('KawaiiRT-Mona.woff2') format('woff2'),
+        url('KawaiiRT-Mona.woff') format('woff'),
+        url('KawaiiRT-Mona.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kawaii RT Layer Line';
+    src: url('KawaiiRT-LayerLine.eot');
+    src: local('Kawaii RT Layer Line'), local('KawaiiRT-LayerLine'),
+        url('KawaiiRT-LayerLine.eot?#iefix') format('embedded-opentype'),
+        url('KawaiiRT-LayerLine.woff2') format('woff2'),
+        url('KawaiiRT-LayerLine.woff') format('woff'),
+        url('KawaiiRT-LayerLine.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kawaii RT Help_Loyola Round';
+    src: url('KawaiiRT-Help_LoyolaRound.eot');
+    src: local('Kawaii RT Help_Loyola Round'), local('KawaiiRT-Help_LoyolaRound'),
+        url('KawaiiRT-Help_LoyolaRound.eot?#iefix') format('embedded-opentype'),
+        url('KawaiiRT-Help_LoyolaRound.woff2') format('woff2'),
+        url('KawaiiRT-Help_LoyolaRound.woff') format('woff'),
+        url('KawaiiRT-Help_LoyolaRound.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
