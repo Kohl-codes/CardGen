@@ -1,30 +1,38 @@
 <p align="center">
-  <a href="https://dog.ceo/" target="_blank">
-    <img src="https://via.placeholder.com/400x200?text=Dog+API+Logo" width="400" alt="Dog API Logo">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="200" alt="JavaScript Logo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-ES6-brightgreen" alt="JavaScript ES6">
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-v16.15.0-brightgreen" alt="Node.js Version">
+  </a>
+  <a href="https://github.com/Kohl-codes/CardGen" target="_blank">
+    <img src="https://img.shields.io/github/issues/Kohl-codes/CardGen" alt="Issues">
+  </a>
+  <a href="https://github.com/Kohl-codes/CardGen" target="_blank">
+    <img src="https://img.shields.io/github/license/Kohl-codes/CardGen" alt="License">
   </a>
 </p>
 
 
-<p align="center">
-<a href="https://github.com/Kohl-codes/CardGen/actions"><img src="https://img.shields.io/github/workflow/status/Kohl-codes/CardGen/CI" alt="Build Status"></a>
-<a href="https://github.com/Kohl-codes/CardGen"><img src="https://img.shields.io/github/stars/Kohl-codes/CardGen" alt="Total Stars"></a>
-<a href="https://github.com/Kohl-codes/CardGen"><img src="https://img.shields.io/github/release/Kohl-codes/CardGen" alt="Latest Release"></a>
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-brightgreen" alt="License"></a>
-</p>
+## Dog Card Generator
 
-## About Dog Card Generator
-
-The Dog Card Generator is a simple web application that fetches random dog images and displays them in a card format with interesting facts about the breed. The application utilizes the Dog API to retrieve random dog images and display them dynamically.
+This project uses JavaScript and the Dog API to generate random dog images with interesting facts. Click the button to generate a new card featuring a random dog image and some fun facts about the breed.
 
 ### Features
 
-- Fetches a random dog image from the [Dog API](https://dog.ceo/dog-api/).
-- Generates a card with the dog's image, breed name, and a random fact about the breed.
-- Responsive design that adapts to different screen sizes.
+- Fetches random dog images using the Dog API.
+- Displays a card with the dog's image and a random fact.
+- Simple and interactive UI.
 
-## Getting Started
+### Getting Started
 
-To get started with the Dog Card Generator, clone this repository and open the `home.html` file in your browser. 
+To get started with this project, clone the repository and open `home.html` in your browser.
 
 ### Prerequisites
 
@@ -53,6 +61,20 @@ Click the "Generate Dog Card" button to fetch a random dog image and display it 
 ## Contributing
 
 We welcome contributions to the Dog Card Generator project! If you would like to contribute, please fork the repository and submit a pull request with your changes.
+
+If you want to contribute to this project:
+
+Fork the repository.
+1. Create a new branch (git checkout -b feature-branch).
+2. Make your changes.
+3. Commit your changes (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature-branch).
+5. Create a new Pull Request.
+   
+## Code Explanation
+- HTML (index.html): Provides the structure of the page with a button to generate the dog card and a container to display the card.
+- JavaScript (script.js): Handles fetching the dog image from the API, creating the card, and inserting it into the DOM.
+- CSS (styles.css): Manages the styling of the page and the card.
 
 ## Code of Conduct
 
