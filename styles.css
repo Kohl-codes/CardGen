@@ -13,7 +13,7 @@ body {
 
 .container {
     width: 100%;
-    margin: 0 200px 0 0;
+    margin: 0 190px 0 0;
     display: flex;
     flex-direction: column;
     justify-content: center; /* Aligns content to the top */
