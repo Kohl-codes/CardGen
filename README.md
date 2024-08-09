@@ -1,4 +1,9 @@
-<p align="center"><a href="https://dog.ceo/" target="_blank"><img src="https://dog.ceo/api/breeds/image/random" width="400" alt="Dog API Logo"></a></p>
+<p align="center">
+  <a href="https://dog.ceo/" target="_blank">
+    <img src="https://dog.ceo/api/breeds/image/random" width="400" alt="Dog Image">
+  </a>
+</p>
+</a></p>
 
 <p align="center">
 <a href="https://github.com/Kohl-codes/CardGen/actions"><img src="https://img.shields.io/github/workflow/status/Kohl-codes/CardGen/CI" alt="Build Status"></a>
